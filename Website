@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Worx</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">🪦 World Worx</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Gallery</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Crafting Memories in Stone.</h1>
+    <p>Custom Paint Correction and Polish — with Care!</p>
+    <a href="#" class="cta-button">See Our Work</a>
+  </section>
+
+  <section class="services">
+    <h2>SERVICES</h2>
+    <div class="service-list">
+      <div class="service-item">🪦 Grave Restoration</div>
+      <div class="service-item">🎨 Custom Painting</div>
+      <div class="service-item">🖼️ Portraits</div>
+      <div class="service-item">📷 Ceramic Pictures</div>
+    </div>
+  </section>
+
+  <section class="gallery">
+    <h2>GALLERY</h2>
+    <p>Photos of our hand-crafted memorials will go here.</p>
+  </section>
+
+  <section class="about">
+    <h2>ABOUT</h2>
+    <p>Brief history of World Worx. Values: Quality • Care • Legacy.</p>
+  </section>
+
+  <section class="contact">
+    <h2>CONTACT</h2>
+    <p>Juan Aldaco<br>714-600-1424</p>
+    <p>Instagram | Facebook</p>
+  </section>
+
+  <footer>
+    <p>© World Worx</p>
+  </footer>
+</body>
+</html>
